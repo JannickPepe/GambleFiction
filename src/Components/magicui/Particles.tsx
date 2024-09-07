@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable @typescript-eslint/no-redeclare */
 "use client";
 
 import React, { useEffect, useRef, useState } from "react";

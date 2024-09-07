@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { Info, socialLinks} from "../User";
 
 const Footer=()=>{

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Badge, Button, Card, Group, Image, Indicator, Text, useMatches } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import FullProjectModal from "./FullProjectModal";

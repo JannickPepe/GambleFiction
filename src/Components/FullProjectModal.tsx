@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import { Badge, Button, Group, Image, Indicator, Modal, ScrollArea, Text, useMatches } from "@mantine/core";
 
 const FullProjectModal = (props: any) => {
